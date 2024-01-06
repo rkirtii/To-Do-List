@@ -1,0 +1,9 @@
+.middle{
+	text-align: center;
+}
+
+.middle ul {
+    list-style-position: inside;
+    padding: 0;
+    text-align: center;
+}
