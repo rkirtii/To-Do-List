@@ -1,5 +1,9 @@
 .middle{
 	text-align: center;
+	margin: 0;
+  	padding: 0;
+	background: url(img.jpg)  ;
+	height: 100vh;
 }
 
 .middle ul {
@@ -7,3 +11,4 @@
     padding: 0;
     text-align: center;
 }
+
